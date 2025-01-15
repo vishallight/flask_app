@@ -97,7 +97,7 @@ def handle_snowflake_command(ack, body, client):
                     },
                     "label": {
                         "type": "plain_text",
-                        "text": "Query",
+                        "text": "Query Editor",
                         "emoji": True
                     }
                 }
