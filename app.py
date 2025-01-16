@@ -8,7 +8,7 @@ from slack_bolt.adapter.socket_mode import SocketModeHandler
 import logging
 from datetime import datetime
 
-#Log 
+#Log 123
 logging.basicConfig(
     filename='logfile.log',  # Log file name
     level=logging.INFO,  # Log level
